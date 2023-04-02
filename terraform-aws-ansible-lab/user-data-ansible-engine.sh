@@ -8,5 +8,6 @@ sudo systemctl restart sshd.service
 sudo yum install -y python3
 sudo yum install -y vim
 sudo yum install -y ansible
+sudo yum install -y ansible-core
 sudo yum install -y git
 # sudo yum update -y

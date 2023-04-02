@@ -1,6 +1,6 @@
 variable "aws_ami_id" {
   ## Amazon Linux 2 AMI (HVM)
-  default = "ami-02f97949d306b597a"
+  default = "ami-00c39f71452c08778"
   ## "ami-0cd31be676780afa7"
 }
 
